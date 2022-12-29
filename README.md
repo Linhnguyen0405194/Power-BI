@@ -1,4 +1,4 @@
-# Power-BI
+# ADVENTURE WORKS's analysis via Power BI
 ADVENTURE WORKS Power BI: 
 - Data source: query data from Microsoft SQL Server (local) via SQL Server Management Studio (SSMS)
 - Object: Adventure works (The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles)
